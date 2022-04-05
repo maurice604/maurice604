@@ -29,4 +29,18 @@
   </a>
 </div>
 
+## GitHub Stats
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=maurice604&show_icons=true&theme=blue-green" />
+  </a>
+</div>  
+  
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurice604&layout=compact&theme=blue-green" />
+  </a>
+</div>
+
 
