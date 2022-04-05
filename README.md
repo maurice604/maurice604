@@ -1,16 +1,32 @@
-### Hi there 👋
+### Olá, 👋 
+  me chamo **Maurice Alves**, sou do Rio de Janeiro, Brasil e atualmente **estudante de Desenvolvimento de Software na Trybe** 🚀. 
+  
+  ## Tecnologias e Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Mongo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" alt="Mocha" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
+  <img align="center" alt="Heroku" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
+</div>
 
-<!--
-**maurice604/maurice604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Minhas Redes Sociais
+<div>
+  <a href="https://www.linkedin.com/in/mauricealvesdev/" target="_blank">
+    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  </a>
+  <a href="maurice.estevam@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="55px" height="48px">
+  </a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
