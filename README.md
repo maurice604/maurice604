@@ -42,7 +42,7 @@
   <td>
   
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurice604&layout=compact&theme=blue-green" />
+    <img align="center" width="500em" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurice604&layout=compact&theme=blue-green" />
   </a>
   
   </td>
