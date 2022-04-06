@@ -49,4 +49,6 @@
  </tr>
 </table>
 
+![snake gif](https://github.com/maurice604/maurice604/blob/output/github-contribution-grid-snake.svg)
+
 
