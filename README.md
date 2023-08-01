@@ -1,5 +1,5 @@
 ### Olá, 👋 
-  me chamo **Maurice Alves**, sou do Rio de Janeiro, Brasil e atualmente **estudante de Desenvolvimento de Software na Trybe** 🚀. 
+  me chamo **Maurice Alves**, sou do Rio de Janeiro, Brasil e desenvolvedor full-stack formado no curso de **Desenvolvimento de Software na escola brasileira Trybe** 🚀. 
   
   ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
